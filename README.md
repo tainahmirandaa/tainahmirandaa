@@ -25,6 +25,7 @@
             alt="linkedin" 
             title="linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=link-16&logoColor=white"
+            style="width: 40px; height: 40px;"
         />
     </a>
     <a href="https://www.canva.com/design/DAGy_DWoIIk/QfUuMilBL4nj-jLMvKjJpQ/edit?utm_content=DAGy_DWoIIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
@@ -32,13 +33,15 @@
             alt="curriculo" 
             title="curriculo" 
             src="https://custom-icon-badges.demolab.com/badge/Curr%C3%ADculo-D15E9B.svg?logo=heart"
+            style="width: 40px; height: 40px;"
         />
     </a> 
     <a href="https://github.com/tainahmirandaa/tainahmirandaa">
         <img 
             alt="repositorio" 
             title="repositorio" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-red?style=for-the-badge&logoColor=white&logo=repo"
+            src="https://custom-icon-badges.demolab.com/badge/Repo-red.svg?logo=repo"
+            style="width: 40px; height: 40px;"
         />
     </a>
 
