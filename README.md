@@ -25,7 +25,7 @@
             alt="linkedin" 
             title="linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=link-16&logoColor=white"
-            style="width: 40px; height: 20px;"
+            style="width: 80px; height: 30px;"
         />
     </a>
     <a href="https://www.canva.com/design/DAGy_DWoIIk/QfUuMilBL4nj-jLMvKjJpQ/edit?utm_content=DAGy_DWoIIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
@@ -33,7 +33,7 @@
             alt="curriculo" 
             title="curriculo" 
             src="https://custom-icon-badges.demolab.com/badge/Curr%C3%ADculo-D15E9B.svg?logo=heart"
-            style="width: 80px; height: 40px;"
+            style="width: 80px; height: 30px;"
         />
     </a> 
     <a href="https://github.com/tainahmirandaa/tainahmirandaa">
