@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Tainah Mirand
+# 👩🏻‍💻 Tainah Miranda
 
 **`Desenvolvedora em formação`**
 
