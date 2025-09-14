@@ -20,11 +20,11 @@
 ## 📫 Como me encontrar  
 
 <p align="left">
-    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.linkedin.com/in/tainaholiveiraemiranda/)">
+    <a href="https://www.linkedin.com/in/tainaholiveiraemiranda/">
         <img 
             alt="linkedin" 
             title="linkedin" 
-            src="**https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630**"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=link-16&logoColor=white"
         />
     </a>
     <a href="https://www.canva.com/design/DAGy_DWoIIk/QfUuMilBL4nj-jLMvKjJpQ/edit?utm_content=DAGy_DWoIIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
