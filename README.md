@@ -41,7 +41,7 @@
             alt="repositorio" 
             title="repositorio" 
             src="https://custom-icon-badges.demolab.com/badge/Repo-red.svg?logo=repo"
-            style="width: 50px; height: 30px;"
+            style="width: 70px; height: 30px;"
         />
     </a>
 
