@@ -106,6 +106,7 @@
 />
 
 <br/>
+<br/>
 
 ✨ Obrigada por visitar meu portfólio!  
 Sinta-se à vontade para acompanhar minha jornada e trocar ideias comigo.  
