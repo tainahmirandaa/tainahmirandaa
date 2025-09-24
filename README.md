@@ -4,17 +4,17 @@
 
 # Olá, eu sou a Tainah
 
-✨ Apaixonada por aprender coisas novas e explorar diferentes áreas da vida.
-💻 Em transição de carreira para a área de tecnologia.
-🍰 Além disso, também sou confeiteira — criativa dentro e fora da cozinha.
+✨ Apaixonada por aprender coisas novas e explorar diferentes áreas da vida.<br/>
+💻 Em transição de carreira para a área de tecnologia.<br/>
+🍰 Além disso, também sou confeiteira — criativa dentro e fora da cozinha.<br/>
 
 # Sobre mim
 
-🎓 Sempre em busca de conhecimento e novos desafios
-🛠️ Experiência em gestão, atendimento e organização de processos
-💻 Migrando para a área de tecnologia, estudando ferramentas e práticas modernas
-🌍 Interesses variados: viagens, comunicação e projetos criativos
-💡 Gosto de resolver problemas, aprender rápido e colaborar em equipe
+🎓 Sempre em busca de conhecimento e novos desafios<br/>
+🛠️ Experiência em gestão, atendimento e organização de processos<br/>
+💻 Migrando para a área de tecnologia, estudando ferramentas e práticas modernas<br/>
+🌍 Interesses variados: viagens, comunicação e projetos criativos<br/>
+💡 Gosto de resolver problemas, aprender rápido e colaborar em equipe<br/>
 
 
 ## 📫 Como me encontrar  
